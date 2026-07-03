@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Analysis code for: Functional Metagenomics Yields Insights
+  into the Adaptive Mechanisms of Microbial Persistence in
+  Beef Processing Drains
+message: ' If you use this software, please cite it using the metadata from this file.'
+type: software
+authors:
+  - given-names: Zachariah
+    family-names: Vice
+    orcid: 'https://orcid.org/0000-0002-3988-9180'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21172432
+repository-code: >-
+  https://github.com/Miami-413/Metagenomic_Functional_Potential_Analysis
+license: MIT
+version: 1.0.0
